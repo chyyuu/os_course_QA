@@ -1,5 +1,20 @@
 {
-    "plugins": [
-        "quizzes"
-    ]
+   "introduction": {
+        "path": "README.md",
+        "title": "介绍" },
+ "plugins": [
+     "-mathjax", "rust-playpen","ga","duoshuo", "quizzes", "-lunr", "-search", "search-pro"
+    ],
+
+    "pluginsConfig": {
+      "rust-playpen":{},
+       "ga": {
+            "token": "UA-39088953-8"
+        },
+        "duoshuo": {
+            "short_name": "mytest",
+            "theme": "default"
+        },
+       "quizees":{}
+   }
 }
