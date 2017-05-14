@@ -1,6 +1,6 @@
 # 操作系统课程问答
 
-如果有问题，请mail: xuyongjiande@gmail.com
+如果有问题，请mail: yuchen AT tsinghua.edu.cn
 
 * [工具使用](00-tool-manual.md)
 * [操作系统介绍](01-intro.md)
